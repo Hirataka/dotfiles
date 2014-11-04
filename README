@@ -1,0 +1,6 @@
+"git command"
+cd でpushしたいディレクトリに移動
+git add file
+git commit -m "comment"
+git push origin master
+
