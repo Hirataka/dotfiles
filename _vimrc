@@ -22,7 +22,7 @@ NeoBundle 'hail2u/vim-css3-syntax'
 NeoBundle 'othree/html5.vim'
 "NeoBundle 'taichouchou2/vim-javascript'
 "NeoBundle 'kchmck/vim-coffee-script'
-
+NeoBundle 'scrooloose/syntastic.git'
 
 
 call neobundle#end()
